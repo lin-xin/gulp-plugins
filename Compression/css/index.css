@@ -1,0 +1,11 @@
+html{
+    width:100%;
+}
+a{
+    color: #000;
+}
+.main{
+    height:100%;
+    color: #000;
+    transform: rotate(45deg);
+}
